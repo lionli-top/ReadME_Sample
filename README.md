@@ -52,6 +52,10 @@
 来源于网络的图片<br>
 ![这里可以填一些标识，填不填都没影响](http://www.baidu.com/img/bdlogo.gif) 
 
+来源于GitHub仓库里的图片
+![](https://github.com/maydaymiao/ReadME_Sample/blob/master/image/baidu.jpg)  
+
+
 
 给图片加上超链接
 
